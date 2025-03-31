@@ -1,0 +1,265 @@
+1. Inattentional Blindness Eect - The phenomenon where people fail to notice
+unexpected stimuli when focused on a specic task [125]. - Implementation in
+narrative theory: Background information can be leveraged to enhance surprisal
+spikes; crucial plot elements can be hidden in plain sight. - Computational Implementation:
+Narrative generation systems can strategically place important information
+in contexts where readers’ attention is directed elsewhere, setting up future
+revelations.
+2. Perceived Enjoyment - The extent to which an activity is perceived as enjoyable
+in its own right [44]. - Implementation in narrative theory: This is to be implemented
+in the part of story creation (not fruition) - The user becomes a better storyteller
+in the process. - Computational Implementation: Interactive narrative systems can
+adapt to user preferences, providing positive feedback and increasing engagement
+with the creative process.
+3. Perceived Usefulness - The degree to which a person believes that using a particular
+system would enhance their performance [44]. - Implementation in narrative
+theory: This is to be implemented in the part of story creation (not fruition). -
+Computational Implementation: Systems can demonstrate utility by helping users
+overcome common narrative challenges (e.g., plot holes, character development).
+4. Perceived Ease of Use - The degree to which a person believes that using a system
+would be free of effort [44]. - Implementation in narrative theory: This is to
+be implemented in the part of story creation (not fruition). - Computational Implementation:
+Intuitive interfaces and scaffolded narrative tools that reduce cognitive
+load while maintaining creative exibility.
+5. Picture Superiority Effect - The phenomenon where pictures and images are
+more likely to be remembered than words [156]. - Implementation in narrative theory:
+Add pictures to the story (intertextuality). Explore ways to intertwine the two
+in interesting ways. - Computational Implementation: Multimodal narrative systems
+that can suggest relevant visual content or generate complementary imagery
+based on textual descriptions.
+6. Barnum Effect - Also known as the Forer Effect, where individuals believe that personality
+descriptions apply specifically to them despite the description being vague
+and general enough to apply to a wide range of people [65]. - Implementation in
+narrative theory: Craft character traits and situations that allow readers to identify
+with characters through strategic ambiguity. - Computational Implementation:
+Generate character descriptions with calibrated levels of specicity that maximize
+reader identification.
+3.8. Narrativiting Knowledge Graphs 72
+7. Diderot Effect - The observation that acquiring a new possession often creates a
+spiral of consumption that leads to additional purchases [138]. - Implementation in
+narrative theory: Character development can mirror this pattern, where one change
+in behavior or circumstance necessitates further transformations. - Computational
+Implementation: Plot generation algorithms can model cascading effects of character
+decisions, creating organic complexity in narrative development.
+8. Zeigarnik Effect - The psychological tendency to remember uncompleted tasks
+better than completed ones [232]. - Implementation in narrative theory: Deliberately
+leave certain storylines unresolved temporarily to increase memorability and
+reader engagement. - Computational Implementation: Track narrative threads and
+strategically maintain optimal ratios of resolved to unresolved elements based on
+reader attention models.
+9. IKEA Effect - People place disproportionally higher value on products they partially
+created themselves [157]. - Implementation in narrative theory: Allow readers
+to participate in creating aspects of the narrative, increasing their investment in
+the story. - Computational Implementation: Interactive storytelling systems that
+incorporate reader choices while maintaining narrative coherence and quality.
+10. Mere Exposure Effect - The tendency to develop a preference for things merely
+because they are familiar [231]. - Implementation in narrative theory: Recurring
+elements, characters, or locations can create comfort and attachment for readers
+over time. - Computational Implementation: Algorithms can track and modulate
+the reintroduction of narrative elements to optimize familiarity without creating
+repetitiveness.
+11. Context-Dependent Memory - The phenomenon where memories are more easily
+retrieved when the context during recall matches the context during encoding
+[75]. - Implementation in narrative theory: Setting consistent emotional or physical
+contexts for related narrative elements can enhance thematic connections and
+memorability. - Computational Implementation: Systems can track contextual features
+of narrative moments and strategically recreate these contexts when reintroducing
+related elements.
+12. Story Bias - The tendency to interpret information as being part of a larger narrative,
+even when the events are unrelated [206]. - Implementation in narrative
+theory: Leverage readers’ tendency to nd patterns by planting seemingly unrelated
+elements that later converge meaningfully. - Computational Implementation:
+Narrative generation can include strategically placed elements that appear random
+but follow hidden patterns, rewarding attentive readers.
+13. Von Restorff Effect - The observation that distinctive items are more likely to be
+remembered than common items [218]. - Implementation in narrative theory: Create
+memorable moments through disruption of established patterns or expectations. -
+Computational Implementation: Algorithms can identify opportunities to introduce
+novel elements or variations that contrast with established narrative patterns.
+3.8. Narrativiting Knowledge Graphs 73
+14. Authenticity Bias - The preference for experiences perceived as genuine or real
+rather than articial or contrived [14]. - Implementation in narrative theory: Develop
+narratives with imperfections and limitations that mirror real-world constraints.
+- Computational Implementation: Narrative generation systems can introduce
+calculated aws and limitations that enhance perceived authenticity rather
+than aiming for idealized perfectionism.
+15. Uncanny Valley Effect - The hypothesis that human replicas that appear almost
+but not quite human elicit feelings of eeriness and revulsion [148]. - Implementation
+in narrative theory: Can be used deliberately to create discomfort with characters
+or situations that seem almost normal but contain subtle wrongness. - Computational
+Implementation: Character development algorithms can introduce calculated
+deviations from expected human behavior to create specic emotional responses.
+16. Aesthetic-Usability Effect - The tendency for users to perceive aesthetically pleasing
+designs as more usable [210]. - Implementation in narrative theory: Well-crafted
+prose and structural elegance can enhance readers’ perception of narrative quality
+and meaning. - Computational Implementation: Style transfer algorithms and linguistic
+quality metrics can enhance subjective reading experience while preserving
+content.
+17. Paradox of Choice - The theory that an abundance of options can make individuals
+less satised with their nal choice [195]. - Implementation in narrative theory:
+Limiting narrative paths or character options can sometimes create more satisfying
+experiences than unlimited choice. - Computational Implementation: Interactive
+narratives can offer meaningful but constrained choices that preserve narrative
+quality rather than overwhelming users with possibilities.
+18. Processing Fluency Effect - The ease with which information is processed in-
+uences judgments about that information [4]. - Implementation in narrative theory:
+Adjusting the complexity of prose to match content (simpler for action, more
+complex for introspection) can enhance reader immersion. - Computational Implementation:
+Readability algorithms can modulate linguistic complexity based on
+narrative context and desired cognitive effect.
+19. Bizarreness Effect - Unusual or bizarre material is better remembered than common
+material [96]. - Implementation in narrative theory: Strategic use of surprising
+or unconventional elements can create memorable narrative moments. - Computational
+Implementation: Creative divergence algorithms can generate unusual narrative
+elements calibrated to specic reader tolerance thresholds.
+NARRATIVE
+• Presentation Strategies
+– Show, Don’t Tell: Conveying information through sensory details, actions,
+and dialogue rather than explicit statements. This technique creates a more
+immersive experience by engaging readers’ senses and making them active
+participants in interpreting the narrative [21].
+3.8. Narrativiting Knowledge Graphs 74
+– Imagery and Symbolism: The use of visual descriptions and symbolic elements
+to convey meaning beyond literal representation [111].
+– Focalization: The perspective or lens through which narrative information is
+ltered and presented to readers [72].
+• Plot Construction Strategies
+– Misdirection: Atechnique where authors deliberately lead readers to focus on
+certain elements while the true narrative direction unfolds elsewhere, creating
+surprise or revelation [54].
+– Red Herrings: False clues introduced to divert attention from the actual solution
+or outcome [182].
+– Chekhov’s Gun: The principle that every element introduced in a story must
+serve a purpose in the plot [32].
+– In Medias Res: Beginning a narrative in the middle of the action rather than
+from the beginning [203].
+• Character Development Strategies
+– Indirect Characterization: Revealing character traits through actions, dialogue,
+and interactions rather than direct statements [188].
+– Character Arcs: The evolution of a character throughout a narrative, often
+involving transformation, growth, or revelation [25].
+– Foil Characters: Characters whose traits contrast with and highlight aspects
+of another character, typically the protagonist [66].
+• Narrative Voice Strategies
+– Unreliable Narration: Using a narrator whose credibility is compromised,
+creating tension between the story as presented and the story as understood
+by readers [19].
+– Stream of Consciousness: Representing a character’s thought process in a
+continuous ow, often without conventional syntax or punctuation [95].
+– Free Indirect Discourse: Anarrative mode that represents a character’s thoughts
+or speech within third-person narration, blending narratorial and character
+perspectives [174].
+• Temporal Strategies
+– Flashback (Analepsis): Interrupting the chronological sequence to present
+events from the past [72].
+– Foreshadowing: Implying or suggesting future events in the narrative [149].
+– Prolepsis: Direct reference to future events in the narrative [72].
+• Structural Strategies
+3.8. Narrativiting Knowledge Graphs 75
+– Frame Narrative: A story within a story, embedding one narrative inside
+another [224].
+– Parallel Plotting: Developing multiple storylines that may converge or remain
+separate but thematically connected [186].
+– Narrative Fragmentation: Deliberately breaking the linearity or coherence
+of storytelling [140].
+• Rhetorical Strategies
+– Dramatic Irony: Creating a situation where the audience knows more than
+the characters, generating tension or humor [20].
+– Juxtaposition: Placing contrasting elements side by side to highlight differences
+or create meaning [122].
+– Bathos: The abrupt transition from the elevated to the commonplace, often
+used for comedic effect [178].
+1. Suspense and Uncertainty: By withholding information or introducing ambiguous
+situations, narratives can trigger a sense of suspense and curiosity, leading
+readers to engage more deeply with the story to resolve uncertainties.
+2. Anchoring and Priming: Authors can establish initial impressions or emotions
+early in the narrative that inuence how readers perceive subsequent events or
+character actions.
+3. Selective Attention: Narratives can focus readers’ attention on specic details or
+characters, guiding their emotional connections and interpretations.
+4. Framing Effects: The way a story is presented and framed can inuence how
+readers interpret events, motivations, and character actions.
+5. Conrmation Bias: Readers may interpret events and character behaviors based
+on their initial assumptions, leading them to see what they expect to see within the
+narrative.
+6. Empathy and Character Identication: Authors can create characters with relatable
+traits and experiences, encouraging readers to identify with and emotionally
+invest in them.
+7. Visual Imagery and Imagination: Descriptive language in narratives prompts
+readers to visualize scenes, settings, and characters, enhancing their immersion in
+the story.
+8. Temporal Illusions: Manipulating the pacing and sequencing of events can create
+a distorted sense of time, altering readers’ perceptions of the story’s progression.
+9. Misdirection and Foreshadowing: Authors can lead readers’ attention away
+from important details or set up expectations that are later subverted, enhancing
+surprise and intrigue.
+3.8. Narrativiting Knowledge Graphs 76
+10. Ambiguity and Interpretation: Introducing ambiguity allows readers to bring
+their own perspectives and interpretations to the narrative, fostering engagement
+and discussion.
+11. Desire for Closure: Narratives often create unresolved questions or conicts that
+drive readers to seek closure, encouraging continued engagement.
+12. Memory and Recall: Authors may strategically reveal information to characters
+and readers, taking advantage of memory biases to create suspense or emotional
+impact.
+13. Transference and Projection: Readers might project their own emotions, experiences,
+and desires onto characters, forming strong connections and reactions.
+14. Dual Reality and Unreliable Narration: Manipulating perspective and revealing
+unreliable narrators can lead readers to question the accuracy of events and
+motivations.
+15. Nostalgia and Familiarity: Authors can evoke feelings of nostalgia by referencing
+familiar cultural elements, enhancing readers’ emotional connections to the
+narrative.
+16. Sensory Descriptions: Vivid sensory descriptions in narratives trigger readers’
+sensory memories and experiences, making the story feel more immersive.
+17. Cognitive Dissonance and Moral Dilemmas: Presenting characters with con-
+icting emotions and decisions challenges readers’ beliefs and encourages introspection.
+18. Symbolism and Subtext: Authors can use symbolism and subtext to convey deeper
+meanings and messages that readers may perceive on multiple levels.
+19. Vividness and Salience: Emphasizing vivid or emotionally charged details can
+enhance the impact of a scene or event, making it more memorable for readers.
+20. Social Comparison: Characters’ behaviors and situations can prompt readers to
+compare them to their own lives, fostering personal reection and emotional engagement.
+21. Narrative Transportation: Engaging narratives can transport readers into the
+story world, causing them to feel a sense of presence and connection with the characters
+and events.
+22. Curiosity Gap: Introducing unanswered questions or mysteries in the narrative
+piques readers’ curiosity and encourages them to keep reading to nd out more.
+23. Temporal Discounting: Authors can manipulate the timing of revelations or
+events to create shifts in the emotional impact, causing readers to reassess their
+feelings about characters or situations.
+3.8. Narrativiting Knowledge Graphs 77
+24. Cognitive Closure: Resolving conicts or providing explanations at the end of a
+narrative satises readers’ desire for closure and contributes to their overall satisfaction.
+25. Sensory Language and Synesthesia: Describing sensory experiences using rich,
+evocative language can trigger readers’ sensory memories and engage multiple
+senses.
+26. False Memories: Introducing unreliable or distorted memories in the narrative
+can mirror the way human memory can be fallible, creating intrigue and tension.
+27. Narrative Flow: Maintaining a smooth narrative ow and pacing helps keep readers
+engaged, preventing them from disengaging due to cognitive effort.
+28. Sense of Wonder: By introducing elements of the unknown, fantastical, or aweinspiring,
+narratives can evoke a sense of wonder that captivates readers.
+29. Ego Depletion: Narratives that require readers to piece together information,
+solve mysteries, or follow complex plots can lead to a feeling of mental fatigue,
+creating a sense of accomplishment when resolved.
+30. Escapism and Catharsis: Readers often seek to escape their own reality and experience
+emotional catharsis through the struggles and triumphs of ctional characters.
+31. Intertextuality and Allusions: Referring to other works of literature, art, or popular
+culture can create connections and associations that enrich readers’ interpretations.
+32. Character Arcs and Development: Showing characters’ growth, transformation,
+or internal struggles can lead readers to emotionally invest in their journeys.
+33. Foreshadowing and Chekhov’s Gun: Planting subtle hints about future events
+or objects can create a sense of anticipation and intrigue.
+34. Contrast and Dichotomy: Presenting characters, settings, or situations with stark
+contrasts can highlight thematic elements and create emotional resonance.
+35. Cultural and Contextual Bias: Readers’ cultural backgrounds and personal experiences
+can inuence how they perceive and interpret characters and events.
+36. Narrative Empathy: Narratives that explore characters’ emotions and motivations
+can elicit empathy from readers, enhancing their emotional connection to the
+story.
+37. Show don’t tell: conveying information through sensory details, actions, and dialogue
+rather than explicitly stating facts or emotions.
+38. Misdirection: deliberately leading readers or audiences to focus on certain elements,
+details, or expectations, while the true narrative direction or resolution
+unfolds elsewhere.
